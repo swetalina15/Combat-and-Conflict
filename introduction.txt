@@ -1,0 +1,26 @@
+ 
+" Conflict And Combat " is a game usually played between two people in which players simultanoeously 
+  chooses the warriors they want to go to combat. here the second player remains constant that is 
+  - The Computer.
+  
+  Each of the battle warrior has some capabilities and some weakness. 
+  They are overcome by the some warriors and defeats the other ones.
+  This allows fair game and and victory by chance both.
+  
+  ------------------------------FLOW OF THE GAME------------------------------------------------------
+  
+   FIRST: player has to choose the no of warriors in the pool for the combat rounds.
+ 
+   SECOND: player gets to chose the warriors he wants to be avaliable for the final battles.
+  
+   THIRD: when the games begins player and the Computer will chose the warriors of their choice
+         from the pool decided by the player in earlier step
+  
+   FOURTH: Best of five combats will decide the results, based on the warriors chosen by both ends.
+  
+   FIVE: If a player has all it takes and wins the battle of the 5 combats,they shall be entitiled for
+         the grand prize. 
+  
+    !!!MAY ODDS BE IN YOUR FAVOUR!!!
+  
+ -----------------------------------------------------------------------------------------------------------

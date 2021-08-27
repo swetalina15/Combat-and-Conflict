@@ -1,0 +1,69 @@
+
+RULES AND INFORMATION ABOUT THE WARRIORS:-
+   
+  * KORG THE FIGHTER:
+       korg is a kronan warrior who resided on sakaar and was forced to participate
+       with the "Conflict and Combat". 
+       POWER-- CRUSHING!!
+       VICTORY OVER:{GULA MONSTER,JACK THE RIPPER,THE UNDEAD GHOUL,NIGHT CRAWLER}
+       DEFEATED BY:{GOAT SKINNED,BOUNTY HUNTER,MILITARISTIC FIGHTING MACHINE,ZEUS'S SON}
+
+ 
+  * JACK THE RIPPER:
+       jack is a notorious serial killer who terrorised whitechappel in 1888,who is 
+       intentionally recognised as an evil character.
+       POWER-- HANDY WITH SCISSORS!!
+       VICTORY OVER:{GULA MONSTER,GOAT SKINNED,THE UNDEAD GHOUL,NIGHT CRAWLER}
+       DEFEATED BY:{KORG THE FIGHTER,MILITARISTIC FIGHTING MACHINE,ZEUS'S SON,BOUNTY HUNTER}
+
+
+  * GULA MONSTER:
+       gula monster is primarly depicted as a villianious alternate personality of
+       Dr.connors, who takes over his mind and evolves after each transformation
+       through illegal experiments.
+       POWER-- BODY OF LIZARD!!
+       VICTORY OVER:{BOUNTY HUNTER,GOAT SKINNED,ZEUS'S SON,MILITARISTIC FIGHTING MACHINE}
+       DEFEATED BY:{KORG THE FIGHTER,JACK THE RIPPER,NIGHT CRAWLER,THE UNDEAD GHOUL}
+
+ * BOUNTY HUNTER:
+       Bounty hunter is a professional person who captures fugitives for a commission or
+       bounty oftenly known as recovery agent. 
+       POWER-- SHARP MIND!!
+       VICTORY OVER:{ZEUS'S SON,MILITARISTIC FIGHTING MACHINE,KORG THE FIGHTER,JACK THE RIPPER}
+       DEFEATED BY:{GULA MONSTER,GOAT SKINNED,NIGHT CRAWLER,THE UNDEAD GHOUL}
+
+* THE UNDEAD GHOUL:
+       The undead ghoul is a demon/zombie-like being or monstrous humanoid originating
+       in fells,associated with graveyards and consuming human flesh.
+       POWER-- CAN EAT FLESH!!
+       VICTORY OVER:{ZEUS'S SON,GOAT SKINNED,BOUNTY HUNTER,LIZARD}
+       DEFEATED BY:{MILITARISTIC FIGHTING MACHINE,NIGHT CRAWLER,KORG THE FIGHTER,JACK THE RIPPER}
+
+* MILITARISTIC FIGHTING MACHINE:
+       Militaristic fighting machine is an armoured fighting vehicle preotected by armours
+       which are wheeled and are given their own AI Powered Mind.
+       POWER-- SELF-PROPELLED GUNS!!
+       VICTORY OVER:{NIGHT CRAWLER,KORG THE FIGHTER,JACK THE RIPPER,THE UNDEAD GHOUL}
+       DEFEATED BY:{GOAT SKINNED,BOUNTY HUNTER,ZEUS'S SON,GULA MONSTER}
+
+* THE ZEUS'S SON:
+       The greatest of the greek heroes, was born in the Biotian city of Thebes. He
+       conquered one of the deadliest quest of the era.
+       POWER-- COSMIC POWERS!!
+       VICTORY OVER:{MILITARISTIC FIGHTING MACHINE,GOAT SKINNED,KORG THE FIGHTER,NIGHT CRAWLER}
+       DEFEATED BY:{THE UNDEAD GHOUL,BOUNTY HUNTER,GULA MONSTER,JACK THE RIPPER}
+
+* THE NIGHT CRAWLER:
+       Night crawler is a member of subspecies of humanity known as mutants who were born
+       with superhuman abilities and agility.
+       POWER-- INVISIBLITY CLOAK!!
+       VICTORY OVER:{BOUNTY HUNTER,GOAT SKINNED,THE UNDEAD GHOUL,GULA MONSTER}
+       DEFEATED BY:{KORG THE FIGHTER,MILITARISTIC FIGHTING MACHINE,ZEUS'S SON,JACK THE RIPPER}
+
+* THE GOAT SKINNED:
+       the goat skinned or chupacabra are goat skinned goat suckers who blends with
+       the pack and eats them.
+       POWER-- MAKES LOTS OF PAPERS!!
+       VICTORY OVER:{KORG THE FIGHTER,MILITARISTIC FIGHTING MACHINE,ZEUS'S SON,BOUNTY HUNTER}
+       DEFEATED BY:{GULA MONSTER,JACK THE RIPPER,THE UNDEAD GHOUL,NIGHT CRAWLER}
+
